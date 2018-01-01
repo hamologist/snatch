@@ -1,0 +1,13 @@
+.*.swp
+*.pyc
+*.pyo
+*.egg-info
+build/
+dist/
+env/
+__pycache__/
+
+poetry.lock
+.DS_Store
+.idea
+.vscode
